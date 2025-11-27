@@ -14,7 +14,7 @@ from dataclasses import dataclass, asdict
 
 print("\n" + "💼" * 50)
 print("🚀 AI SDR AGENT - DAY 5 TUTORIAL")
-print("📚 SELLING: Dr. Thakur's Cloud & AI Courses")
+print("📚 SELLING:  Thakur's Cloud & AI Courses")
 print("💡 agent.py LOADED SUCCESSFULLY!")
 print("💼" * 50 + "\n")
 
@@ -46,7 +46,7 @@ load_dotenv(".env.local")
 FAQ_FILE = "store_faq.json"
 LEADS_FILE = "leads_db.json"
 
-# Default FAQ data for "Dr. Thakur Store"
+# Default FAQ data for " Thakur Store"
 DEFAULT_FAQ = [
     {
         "question": "What do you sell?",
@@ -58,7 +58,7 @@ DEFAULT_FAQ = [
     },
     {
         "question": "Do you offer free content?",
-        "answer": "Yes! Dr. Thakur releases weekly tutorials on YouTube for free. The paid courses offer deep-dives, code reviews, and certification."
+        "answer": "Yes!  Thakur releases weekly tutorials on YouTube for free. The paid courses offer deep-dives, code reviews, and certification."
     },
     {
         "question": "Do you do corporate consulting?",
